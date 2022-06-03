@@ -12,7 +12,7 @@ PKG_VERSION:=1.5
 PKG_RELEASE:=1
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
-PKG_SOURCE_URL:= https://codeload.github.com/Pinheiro10/OpenC2X-standalone-comp/tar.gz/v$(PKG_VERSION)?
+PKG_SOURCE_URL:= https://codeload.github.com/Pinheiro10/OpenC2X-standalone/tar.gz/v$(PKG_VERSION)?
 
 
 PKG_MD5SUM:= b751f52c6636fb3df319cac1edb97e04
