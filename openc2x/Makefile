@@ -15,7 +15,8 @@ PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:= https://codeload.github.com/Pinheiro10/OpenC2X-standalone-comp/tar.gz/v$(PKG_VERSION)?
 
 
-PKG_MD5SUM:= 53895a75209dc7111859994e7dd9f330
+PKG_MD5SUM:= 5b60cf9ca002c1fd3d63941d2879f5f2
+
 
 PKG_BUILD_DIR:=$(BUILD_DIR)/OpenC2X-standalone-$(PKG_VERSION)
 PKG_BUILD_DEPENDS:=asn1c/host autoconf-archive
