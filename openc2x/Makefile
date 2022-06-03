@@ -12,7 +12,7 @@ PKG_VERSION:=1.5
 PKG_RELEASE:=1
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
-PKG_SOURCE_URL:=/home/dartes/Downloads/OpenC2X-standalone-comp.tar.xz
+PKG_SOURCE_URL:= https://github.com/Pinheiro10/OpenC2X-standalone-comp/archive/refs/tags/v1.5.1.tar.gz
 
 PKG_MD5SUM:= 53895a75209dc7111859994e7dd9f330
 
